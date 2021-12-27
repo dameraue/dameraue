@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### Test Test
-<p style="color:red">
-Elle
-</p>
+
 <!--
 **dameraue/dameraue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
