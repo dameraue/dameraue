@@ -1,6 +1,8 @@
 Hey!
-Take a look my Typescript, Java, Dart, plain Javascript & HTML, Kotlin, whatever projects - and a sip of ☕.
+Take a look around and a sip of ☕ while i'm working on different sized projects (sustainability & community mostly) in Typescript, Python, Java, Dart, Javascript etc.
 
+I'm always exctied to explore new things and currently learning OS Customizing on Android 10 for example. 🌱
+💬 Leave a msg 
 
 <!--
 **dameraue/dameraue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
