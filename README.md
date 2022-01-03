@@ -11,8 +11,6 @@ I'm quite fluent in
 - html + sass + less + css
 - nodeJS
 
-(and by fluent i mean: 🔥)
-
 I'm always exctied to explore new things and currently learning: the benefits of nosql databases compared to relational dbs. 🌱
 
 💬 Leave a msg if you like
