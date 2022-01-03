@@ -1,5 +1,5 @@
-### Hey there 👋
-### Nice to see u.
+Hey!
+Take a sip ☕.
 
 <!--
 **dameraue/dameraue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
