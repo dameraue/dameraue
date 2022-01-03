@@ -9,10 +9,10 @@ I'm quite fluent in
 - Javascript
 - html + sass + less + css
 - nodeJS
-- ...
+
 (and by fluent i mean: 🔥)
 
-I'm always exctied to explore new things and currently learning OS Customizing on Android 10. 🌱
+I'm always exctied to explore new things and currently learning: the benefits of nosql databases compared to relational dbs. 🌱
 
 💬 Leave a msg if you like
 
