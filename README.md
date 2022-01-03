@@ -1,7 +1,7 @@
 Hey!
 Take a look around and a sip of ☕ while i'm working on different sized projects (sustainability & community mostly) in Typescript, Python, Java, Dart, Javascript etc.
 
-I'm always exctied to explore new things and currently learning OS Customizing on Android 10 for example. 🌱
+I'm always exctied to explore new things and currently learning OS Customizing on Android 10. 🌱
 
 💬 Leave a msg 
 
