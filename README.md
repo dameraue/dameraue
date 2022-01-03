@@ -1,5 +1,6 @@
 Hey!
-Take a sip ☕.
+Take a look my Typescript, Java, Dart, plain Javascript & HTML, Kotlin, whatever projects - and a sip of ☕.
+
 
 <!--
 **dameraue/dameraue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
