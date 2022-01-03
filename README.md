@@ -1,5 +1,6 @@
 Hey!
 Take a look around and a sip of ☕ while i'm working on different sized projects (sustainability & community, mostly).
+
 I'm quite fluent in 
 
 - Typescript
