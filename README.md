@@ -10,6 +10,6 @@ I'm quite fluent in
 - Javascript
 - html + sass + less + css
 - nodeJS
-- PUG
+- PUG & jQuery
 
 💬 Leave a msg if you like.
