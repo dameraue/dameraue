@@ -1,5 +1,5 @@
 Hey!
-I'm eln, a thirty-something-years old developer from cgn.
+I'm eln, a thirty-something-years old designer & developer from cgn.
 
 I'm quite fluent in 
 
@@ -11,5 +11,6 @@ I'm quite fluent in
 - html + sass + less + css
 - nodeJS
 - PUG & jQuery
+- Adobe & Affinity
 
 💬 Leave a msg if you like.
