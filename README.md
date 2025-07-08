@@ -1,16 +1,13 @@
 Hey!
-I'm eln, a thirty-something-years-old fullstack developer and designer from cgn, germany.
+I'm ellen, a fullstack developer from cgn, germany.
 
 I'm quite fluent in 
 
-- Typescript and it's common Frameworks (Angular, React, Vue, Ionic)
-- Python
-- Java, JSP, JSF
-- Dart/Flutter 
-- Javascript
-- html + sass + less + css
-- nodeJS
-- PUG & jQuery
-- Adobe & Affinity
+- typescript and it's common frameworks (ngular, react, vue, ionic)
+- python
+- java, jsp, jsf
+- js, html + sass + less + css
+- node, pug, jquery
+- affinity suite and jetbrains ide
 
 💬 Leave a msg if you like.
